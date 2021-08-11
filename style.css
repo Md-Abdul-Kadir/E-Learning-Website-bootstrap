@@ -14,9 +14,28 @@ body{
 .extra_padding{
     padding-top: 12%;
 }
+.extra_margin{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
 .text-big{
     font-size: 50px;
 }
+.text-big-big{
+    font-size: 70px;
+}
 .theme-color{
-    color:#279D74;
+    color:#148F77 ;
+}
+.theme-color-bg{
+    background-color:#148F77 ;
+}
+
+.topic-hover:hover{
+    background-color: #e5f8e5;
+}
+
+a{
+    text-decoration:none;
+    font-weight: 800;
 }
