@@ -39,3 +39,19 @@ a{
     text-decoration:none;
     font-weight: 800;
 }
+
+.btn-sub{
+    color:#187e69 ;
+    font-size: 20px;
+
+}
+.btn-sub:hover{
+    font-weight: bold;
+    color:#016b56 ;
+    width: 75% !important;
+    box-shadow: 5px 5px 15px rgb(185, 185, 185);
+}
+
+.text-graay{
+    color: rgb(209, 209, 209) !important;
+}
